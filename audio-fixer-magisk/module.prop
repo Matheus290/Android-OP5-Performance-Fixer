@@ -1,0 +1,6 @@
+id=audio-performance-fixer-rk3588
+name=Audio Performance Fixer RK3588
+version=1.0
+versionCode=1
+author=Matheus C. Salvalagio (Matheus290)
+description=Fixes performance issue by replacing buggy audio_policy_configuration.xml file with the file fixed by Hezzym.
